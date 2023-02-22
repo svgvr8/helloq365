@@ -39,4 +39,4 @@ HelloQ365 is licensed under the MIT License.
 
 ## Project Links
 [GitHub Repository](https://github.com/svgvr8/helloq365)
-[PyPI Package](https://pypi.org/project/helloq365/0.1.0/)
+[PyPI Package](https://pypi.org/project/helloq365/1.0.0/)
