@@ -1,5 +1,5 @@
 ## HelloQ365
-HelloQ365 is a Python library by Quantum365 (By Sagar Yadav, Miami, Florida) that provides encryption and decryption functionality using a simple substitution cipher. It is built using Rust for high performance.
+HelloQ365 is a Python library by Quantum365 (By Sagar) that provides encryption and decryption functionality using a simple substitution cipher. It is built using Rust for high performance.
 
 ## Installation
 You can install HelloQ365 using pip:
